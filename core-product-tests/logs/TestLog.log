@@ -1,0 +1,275 @@
+2023-11-04 02:01:14.508 [main] ERROR config.PropertiesConfig - ./src/test/resources/config/config.properties (No such file or directory)
+2023-11-04 02:02:23.721 [main] ERROR config.PropertiesConfig - resources/config.properties (No such file or directory)
+2023-11-04 02:03:41.624 [main] ERROR config.PropertiesConfig - core-product-tests/src/test/java/resources/config.properties (No such file or directory)
+2023-11-04 02:03:57.102 [main] ERROR config.PropertiesConfig - resources/config.properties (No such file or directory)
+2023-11-04 02:04:09.627 [main] ERROR config.PropertiesConfig - ./resources/config.properties (No such file or directory)
+2023-11-04 02:06:44.461 [main] ERROR config.PropertiesConfig - resources/config.properties (No such file or directory)
+2023-11-04 10:08:10.735 [main] ERROR config.PropertiesConfig - resources/config.properties (No such file or directory)
+2023-11-04 10:08:44.672 [main] ERROR config.PropertiesConfig - ../resources/config.properties (No such file or directory)
+2023-11-04 10:09:13.325 [main] ERROR config.PropertiesConfig - automation-framework/src/main/resources/config.properties (No such file or directory)
+2023-11-04 10:09:31.561 [main] ERROR config.PropertiesConfig - ./src/main/resources/config.properties (No such file or directory)
+2023-11-04 10:09:48.696 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 10:14:21.819 [main] ERROR config.PropertiesConfig - automation-framework/src/main/resources/config.properties (No such file or directory)
+2023-11-04 10:15:04.913 [main] ERROR config.PropertiesConfig - ./src/main/resources/config.properties (No such file or directory)
+2023-11-04 10:15:12.486 [main] ERROR config.PropertiesConfig - src/main/resources/config.properties (No such file or directory)
+2023-11-04 10:17:57.067 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 10:19:20.503 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 10:19:45.672 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 10:21:21.970 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 10:22:36.835 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 10:23:13.167 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 10:35:11.389 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 10:36:03.084 [main] ERROR config.PropertiesConfig - /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/src/test/resources/config.properties (No such file or directory)
+2023-11-04 10:36:59.017 [main] ERROR config.PropertiesConfig - /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/src/test/resources/config.properties (No such file or directory)
+2023-11-04 10:38:38.512 [main] ERROR config.PropertiesConfig - /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/src/test/resources/config.properties (No such file or directory)
+2023-11-04 10:42:39.881 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 10:42:58.942 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 10:43:33.791 [main] ERROR config.PropertiesConfig - config.properties (No such file or directory)
+2023-11-04 12:50:57.767 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 12:50:57.767 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 12:51:03.372 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 12:51:03.995 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 13:19:38.608 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 13:19:38.608 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 13:19:38.641 [TestNG-PoolService-1] ERROR listener.CucumberBaseTest - FAIL  User Should Not be able to login with invalid credentials
+2023-11-04 13:19:38.641 [TestNG-PoolService-0] ERROR listener.CucumberBaseTest - FAIL  User Should be able to login with valid credentials
+2023-11-04 13:20:39.761 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 13:20:39.761 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 13:20:45.381 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 13:20:45.978 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 13:21:03.602 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 13:21:03.602 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 13:21:09.887 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 13:21:10.748 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 13:21:39.796 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 13:21:47.357 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 13:21:47.358 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 13:21:48.456 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 13:29:07.477 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 13:29:07.477 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 13:29:16.521 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 13:29:16.683 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 13:39:36.734 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 13:39:45.381 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 13:39:45.381 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 13:40:02.289 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 13:41:38.316 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 13:41:38.316 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 13:41:44.394 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 13:41:45.171 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 13:52:43.321 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 13:52:43.321 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 13:52:50.065 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 13:52:50.187 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 14:02:33.907 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 14:02:33.907 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 14:02:42.704 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 14:02:46.704 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 14:09:00.827 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 14:09:00.827 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 14:10:23.850 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 14:10:23.850 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 14:10:31.881 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 14:10:33.247 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 14:11:44.135 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 14:11:44.135 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 14:11:58.817 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 14:11:59.218 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 14:14:22.554 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 14:14:22.554 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 14:14:28.047 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 14:14:29.358 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 14:14:48.330 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 14:14:48.330 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 14:14:54.380 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 14:14:55.088 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 14:17:47.990 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 14:17:47.990 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 14:17:58.579 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 14:18:02.483 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 14:20:02.669 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 14:20:02.669 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should be able to login with valid credentials
+2023-11-04 14:20:08.694 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 14:20:09.341 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should be able to login with valid credentials
+2023-11-04 18:05:59.980 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 18:06:01.361 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 18:06:53.035 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 18:06:54.264 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 18:09:52.744 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 18:09:58.245 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 18:45:20.076 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 18:45:24.221 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 18:48:31.935 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 18:49:20.625 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 18:49:27.534 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 18:49:54.284 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 18:51:18.653 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 19:58:36.093 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 19:58:44.173 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 19:58:45.099 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 20:11:03.473 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:11:14.577 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:11:14.840 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 20:12:33.861 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:12:42.823 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:12:43.589 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 20:15:21.989 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:15:31.772 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:15:32.183 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 20:16:23.235 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:16:33.110 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:18:31.481 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:18:39.300 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:18:55.532 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:19:04.584 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:19:05.136 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 20:24:19.493 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:24:26.964 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:24:28.396 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 20:24:45.999 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:24:52.557 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:24:53.623 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 20:25:50.833 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:25:58.671 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:25:59.468 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 20:49:10.373 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:49:10.395 [TestNG-PoolService-0] ERROR listener.CucumberBaseTest - FAIL  User Should Not be able to login with invalid credentials
+2023-11-04 20:49:54.861 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:50:02.509 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:50:36.615 [TestNG-PoolService-0] ERROR listener.CucumberBaseTest - FAIL  User Should Not be able to login with invalid credentials
+2023-11-04 20:58:58.851 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 20:59:06.282 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 20:59:40.242 [TestNG-PoolService-0] ERROR listener.CucumberBaseTest - FAIL  User Should Not be able to login with invalid credentials
+2023-11-04 21:05:29.434 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:05:40.453 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 21:05:43.947 [TestNG-PoolService-0] ERROR listener.CucumberBaseTest - FAIL  User Should Not be able to login with invalid credentials
+2023-11-04 21:18:02.504 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:18:09.059 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 21:18:14.626 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 21:18:15.195 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 21:23:36.948 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:23:44.922 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 21:26:47.081 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:26:56.617 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 21:27:00.267 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 21:27:00.912 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 21:30:40.123 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:30:47.119 [TestNG-PoolService-0] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.log(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-04 21:32:15.765 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:33:09.193 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 21:35:53.189 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:36:07.103 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 21:38:35.751 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:40:19.031 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:40:48.241 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:40:59.145 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 21:41:43.087 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:44:01.558 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 21:44:51.216 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 21:46:14.694 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:09:41.793 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:13:08.556 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:13:22.505 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-04 22:13:54.745 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:17:26.760 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:18:07.154 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:21:19.801 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:26:58.612 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:28:52.976 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:29:50.505 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:30:40.393 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:51:25.980 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:52:09.966 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:52:54.492 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 22:55:42.931 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 23:57:38.049 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-04 23:57:59.578 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-05 00:09:52.854 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-05 00:10:15.641 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-05 00:22:19.892 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-05 00:22:43.692 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-05 00:31:16.522 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-05 00:31:40.894 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-05 00:37:10.427 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-05 00:37:54.312 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-05 00:38:32.469 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START User Should Not be able to login with invalid credentials
+2023-11-05 00:38:55.242 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  User Should Not be able to login with invalid credentials
+2023-11-05 00:59:14.610 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START Search and Store product information in a file
+2023-11-05 00:59:26.357 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_12_59_14_am/screenshots/screenshot_1.png
+2023-11-05 00:59:38.718 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  Search and Store product information in a file
+2023-11-05 01:03:15.503 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START Search and Store product information in a file
+2023-11-05 01:03:24.665 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_01_03_15_am/screenshots/screenshot_1.png
+2023-11-05 01:04:41.475 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START Search and Store product information in a file
+2023-11-05 01:04:51.737 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_01_04_41_am/screenshots/screenshot_1.png
+2023-11-05 01:05:00.105 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  Search and Store product information in a file
+2023-11-05 01:05:52.695 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START Search and Store product information in a file
+2023-11-05 01:06:03.526 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_01_05_52_am/screenshots/screenshot_1.png
+2023-11-05 01:06:13.463 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  Search and Store product information in a file
+2023-11-05 01:46:26.873 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 01:46:38.252 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_01_46_26_am/screenshots/screenshot_1.png
+2023-11-05 01:47:34.071 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 01:47:44.464 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_01_47_34_am/screenshots/screenshot_1.png
+2023-11-05 01:48:18.313 [TestNG-PoolService-0] ERROR listener.CucumberBaseTest - FAIL  news & features
+2023-11-05 01:48:47.055 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 01:48:56.515 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_01_48_47_am/screenshots/screenshot_1.png
+2023-11-05 01:49:52.704 [TestNG-PoolService-0] ERROR listener.CucumberBaseTest - FAIL  news & features
+2023-11-05 01:55:00.794 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 01:55:11.157 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_01_55_00_am/screenshots/screenshot_1.png
+2023-11-05 01:55:45.082 [TestNG-PoolService-0] ERROR listener.CucumberBaseTest - FAIL  news & features
+2023-11-05 01:58:17.466 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 01:58:28.466 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_01_58_17_am/screenshots/screenshot_1.png
+2023-11-05 01:59:03.641 [TestNG-PoolService-0] ERROR listener.CucumberBaseTest - FAIL  news & features
+2023-11-05 02:00:07.771 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 02:00:18.851 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_02_00_07_am/screenshots/screenshot_1.png
+2023-11-05 02:00:22.110 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  news & features
+2023-11-05 09:53:59.941 [main] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.attach(byte[], String, String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-05 09:55:08.503 [main] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.attach(byte[], String, String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-05 09:57:12.465 [main] ERROR utils.ScreenshotUtil - unable to capture screenshotjava.lang.NullPointerException: Cannot invoke "io.cucumber.java.Scenario.attach(byte[], String, String)" because the return value of "java.lang.ThreadLocal.get()" is null
+2023-11-05 09:59:25.011 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 09:59:35.287 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 09:59:56.062 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_09_59_35_am/screenshots/screenshot_1.png
+2023-11-05 10:01:14.542 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 10:01:34.388 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_10_01_14_am/screenshots/screenshot_1.png
+2023-11-05 10:03:21.081 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 10:03:42.354 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_10_03_21_am/screenshots/screenshot_1.png
+2023-11-05 10:20:51.139 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 10:21:12.111 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_10_20_51_am/screenshots/screenshot_1.png
+2023-11-05 10:21:17.732 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  news & features
+2023-11-05 10:21:42.918 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 10:22:04.135 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_10_21_42_am/screenshots/screenshot_1.png
+2023-11-05 10:25:41.566 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 10:26:03.462 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_10_25_41_am/screenshots/screenshot_1.png
+2023-11-05 10:30:56.987 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 10:31:18.468 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_10_30_56_am/screenshots/screenshot_1.png
+2023-11-05 10:31:21.591 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  news & features
+2023-11-05 10:43:07.916 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 10:43:07.951 [TestNG-PoolService-0] ERROR listener.CucumberBaseTest - FAIL  news & features
+2023-11-05 10:43:40.352 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 10:44:02.679 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_10_43_40_am/screenshots/screenshot_1.png
+2023-11-05 10:44:06.707 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  news & features
+2023-11-05 12:09:40.075 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 12:11:02.683 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 12:20:22.282 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 12:20:44.925 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_12_20_22_pm/screenshots/screenshot_1.png
+2023-11-05 12:20:49.166 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  news & features
+2023-11-05 13:51:24.578 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 13:51:46.876 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_01_51_24_pm/screenshots/screenshot_1.png
+2023-11-05 13:51:52.075 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  news & features
+2023-11-05 15:41:53.391 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 15:42:15.625 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_03_41_53_pm/screenshots/screenshot_1.png
+2023-11-05 15:42:19.055 [TestNG-PoolService-0] INFO  utils.WebActions - clicked element with JS
+2023-11-05 15:42:20.553 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  news & features
+2023-11-05 15:47:01.469 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 15:47:01.469 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START Search and Store product information in a file
+2023-11-05 15:47:23.010 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_03_47_01_pm/screenshots/screenshot_1.png
+2023-11-05 15:47:23.309 [TestNG-PoolService-0] INFO  utils.WebActions - clicked element with JS
+2023-11-05 15:47:23.479 [TestNG-PoolService-1] INFO  utils.ScreenshotUtil - attached screenshot screenshot_2.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_03_47_01_pm/screenshots/screenshot_2.png
+2023-11-05 15:47:26.464 [TestNG-PoolService-1] INFO  utils.WebActions - clicked element with JS
+2023-11-05 15:47:27.988 [TestNG-PoolService-1] INFO  listener.CucumberBaseTest - PASS  news & features
+2023-11-05 15:49:57.213 [TestNG-PoolService-0] INFO  utils.FileWriterUtil - File created: /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_03_47_01_pm/product_info.txt
+2023-11-05 15:49:57.376 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  Search and Store product information in a file
+2023-11-05 16:23:03.122 [TestNG-test=TestNG Test1-1] INFO  listener.CucumberBaseTest - File created: /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_04_23_03_pm
+2023-11-05 16:23:03.129 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - START news & features
+2023-11-05 16:23:26.451 [TestNG-PoolService-0] INFO  utils.ScreenshotUtil - attached screenshot screenshot_1.png to report /Users/saikiranvoleti/Downloads/nba-e2e/core-product-tests/reports/cucumber_report_05_Nov_2023_04_23_03_pm/screenshots/screenshot_1.png
+2023-11-05 16:23:30.001 [TestNG-PoolService-0] INFO  utils.WebActions - clicked element with JS
+2023-11-05 16:23:31.519 [TestNG-PoolService-0] INFO  listener.CucumberBaseTest - PASS  news & features
